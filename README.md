@@ -1,5 +1,8 @@
 # AI-Driven Diagnostic Reagent Demand Predictor
 
+## Application Preview
+
+![AI Diagnostic Reagent Demand Predictor](app-preview.png)
 An AI-powered application built using **Python**, **Streamlit**, and **Facebook Prophet** to help laboratories and researchers predict reagent demand for diagnostic tests based on historical data.
 
 This tool analyzes past lab test data and generates **AI-based forecasts** to help labs manage reagent inventory efficiently.
