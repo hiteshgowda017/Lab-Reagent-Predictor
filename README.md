@@ -99,7 +99,7 @@ Date,Dengue_NS1
 
 ## 👨‍💻 Author
 
-**Hitesh Gowda**
+**Hitesh Gowda H**
 Artificial Intelligence & Data Science Student
 
 GitHub:
