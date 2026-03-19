@@ -43,7 +43,8 @@ ai-diagnostic-reagent-demand-predictor
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/hiteshgowda017/ai-diagnostic-reagent-demand-predictor.git
+git clone https://github.com/hiteshgowda017/Lab-Reagent-Predictor.git
+
 ```
 
 ### 2. Go to the project folder
