@@ -50,7 +50,7 @@ git clone https://github.com/hiteshgowda017/Lab-Reagent-Predictor.git
 ### 2. Go to the project folder
 
 ```bash
-cd ai-diagnostic-reagent-demand-predictor
+cd Lab-Reagent-Predictor
 ```
 
 ### 3. Install required libraries
